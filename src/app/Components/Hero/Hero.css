@@ -1,0 +1,50 @@
+.MainContainer{
+    background-color: white;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin: 10% 10%;
+    display: flex;
+    border-radius: 25px;
+    box-shadow: 0px 13px 10px -7px rgba(0, 0, 0,0.1);
+}
+button {
+    background-color: #A9B388; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+.FeaturedImage{
+    
+    
+    /* border-radius: 25px; */
+    width: 50%;
+    
+   
+    
+}
+.Text{
+    justify-content: center;
+    margin-top: 1%;
+    margin-left: 5%;
+    font-family: 'Playfair Display', serif;
+    display: flex;
+    flex-direction: column;}
+h1{
+    margin-bottom: 10px;
+    font-weight: 100px;
+}
+p{
+    font-weight: 10px;
+    margin-bottom: 10px;
+    
+}
+button{
+    width: 25%;
+}

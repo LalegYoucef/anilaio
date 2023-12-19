@@ -25,7 +25,7 @@ const TypewriterComponent = () => {
 
   }, [aText, iSpeed]);
 
-  return <div id="typedtext">{displayText}</div>;
+  return <div className="TypedText"id="typedtext">{displayText}</div>;
 };
 
 export default TypewriterComponent;
